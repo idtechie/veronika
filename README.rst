@@ -1,9 +1,8 @@
-Template
+Terms of Services Telkomsel Veronika - Virtual Assistant
 ========
 
-- `Panduan Navigasi Wisata Indonesia <https://www.navi.id>`_
-- `Otomotif ID - Mengenal SEVA Lebih Dekat <https://otomotifid.readthedocs.io/en/latest/>`_
-- `Review 7 Mobil Bekas Mewah di Fedora <https://www.fedora.or.id/2020/05/mobil-bekas-mewah-seva.html>`_
+- `Tanya Telkomsel Veronika <https://wiki.karinov.co.id/tanya-veronika-asisten-virtual/>`_
+- `Asisten Virtual Telkomsel <https://www.telkomsel.com/asisten-virtual-telkomsel>`_
 
 $project will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
@@ -43,8 +42,3 @@ License
 -------
 
 The project is licensed under the BSD license.
-
-- https://karinov.co.id - jasa digital marketing indonesia
-- `Review Speaker dan Sound System Terbaik <https://www.fedora.or.id>`_
-- `Portal Pemerintahan dan Pendidikan <https://id.karinov.co.id>`_
-- `Informasi Pendidikan Indonesia <https://www.evaluasi.or.id>`_
