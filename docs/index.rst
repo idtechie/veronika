@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Repository Digital Marketing Indonesia | by Karinov.co.id
+Veronika Virtual Assistant | by Telkomsel Indonesia
 ==================================================
 
 Contents:
@@ -23,8 +23,6 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Veronika Virtual Assistant by Telkomsel Indonesia
-==================
 In 2017, Telkomsel launched `Veronika Virtual Assistant <https://wiki.karinov.co.id/tanya-veronika-asisten-virtual/>`_, an AI-based chatbot to become the first automatic customer care in Indonesia. Every Telkomsel customer can use this Veronika feature 24x7 with various chat platforms such as WhatsApp, Facebook Messenger, LINE, and MyTelkomsel Apps. Among the main features that can be done via Telkomsel Veronika are credit top-up transactions, send credit, register internet packages, change cards, entertainment services, check internet quota, check remaining credit, and most other Telkomsel products. Here are the terms and conditions every Ask Veronika virtual assistant user must meet:
 
 Veronika Virtual Assistant Terms and Conditions
