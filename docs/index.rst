@@ -59,7 +59,7 @@ In using the Telkomsel Virtual Assistant service, Customers are not allowed to:
 
 Disclaimer
 ==================
-These Terms and Conditions are an inseparable part of the general provisions for products and/or services from Telkomsel Services, which are listed on http://www.telkomsel.com/customer-service/disclaimer/11022-Sentuk-dan-Ketektronik-Usage-Products-Telkomsel.html ("Terms and Conditions for Use of Products and/or Services from Telkomsel Services"). For this reason, Telkomsel urges Customers to also regularly read the "Terms and Conditions for Using Telkomsel Products and/or Services" before accessing Telkomsel Virtual Assistant Services.
+These Terms and Conditions are an inseparable part of the general provisions for products and/or services from Telkomsel Services, which are listed on www.telkomsel.com/customer-service/disclaimer/11022-Sentuk-dan-Ketektronik-Usage-Products-Telkomsel.html ("Terms and Conditions for Use of Products and/or Services from Telkomsel Services"). For this reason, Telkomsel urges Customers to also regularly read the "Terms and Conditions for Using Telkomsel Products and/or Services" before accessing Telkomsel Virtual Assistant Services.
 
 By using this service, Customers agree to understand and agree to be bound by these Terms and Conditions.
 
