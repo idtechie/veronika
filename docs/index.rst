@@ -25,9 +25,7 @@ Indices and tables
 
 Veronika Virtual Assistant by Telkomsel Indonesia
 ==================
-In 2017, Telkomsel launched `the Veronika virtual assistant <https://wiki.karinov.co.id/tanya-veronika-asisten-virtual/>`_, an AI-based chatbot to become the first automatic customer care in Indonesia. Every Telkomsel customer can use this Veronika feature 24x7 with various chat platforms such as WhatsApp, Facebook Messenger, LINE, and MyTelkomsel Apps. Among the main features that can be done via Telkomsel Veronika are credit top-up transactions, send credit, register internet packages, change cards, entertainment services, check internet quota, check remaining credit, and most other Telkomsel products. Here are the terms and conditions every Ask Veronika virtual assistant user must meet:
-
-`SEO <https://karinov.co.id/jasa-seo/>`_
+In 2017, Telkomsel launched `Veronika Virtual Assistant <https://wiki.karinov.co.id/tanya-veronika-asisten-virtual/>`_, an AI-based chatbot to become the first automatic customer care in Indonesia. Every Telkomsel customer can use this Veronika feature 24x7 with various chat platforms such as WhatsApp, Facebook Messenger, LINE, and MyTelkomsel Apps. Among the main features that can be done via Telkomsel Veronika are credit top-up transactions, send credit, register internet packages, change cards, entertainment services, check internet quota, check remaining credit, and most other Telkomsel products. Here are the terms and conditions every Ask Veronika virtual assistant user must meet:
 
 Veronika Virtual Assistant Terms and Conditions
 ==================
@@ -63,7 +61,7 @@ In using the Telkomsel Virtual Assistant service, Customers are not allowed to:
 
 Disclaimer
 ==================
-These Terms and Conditions are an inseparable part of the general provisions for products and/or services from Telkomsel Services, which are listed on http://www.telkomsel.com/customer-service/disclaimer/11022-Sentuk-dan-Ketektronik- Usage-Products-Telkomsel.html ("Terms and Conditions for Use of Products and/or Services from Telkomsel Services"). For this reason, Telkomsel urges Customers to also regularly read the "Terms and Conditions for Using Telkomsel Products and/or Services" before accessing Telkomsel Virtual Assistant Services.
+These Terms and Conditions are an inseparable part of the general provisions for products and/or services from Telkomsel Services, which are listed on http://www.telkomsel.com/customer-service/disclaimer/11022-Sentuk-dan-Ketektronik-Usage-Products-Telkomsel.html ("Terms and Conditions for Use of Products and/or Services from Telkomsel Services"). For this reason, Telkomsel urges Customers to also regularly read the "Terms and Conditions for Using Telkomsel Products and/or Services" before accessing Telkomsel Virtual Assistant Services.
 
 By using this service, Customers agree to understand and agree to be bound by these Terms and Conditions.
 
