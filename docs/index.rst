@@ -23,19 +23,13 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Karinov Media Network 
+Veronika Virtual Assistant by Telkomsel Indonesia
 ==================
-- `jasa digital marketing indonesia <https://karinov.co.id/>`_
-- `navigasi pariwisata indonesia <https://www.navi.id>`_
-- `skema box speaker dan review audio terbaru <https://www.fedora.or.id>`_ 
-- `kumpulan tautan berita terbaru indonesia <https://blogs.itb.ac.id/feeds>`_ 
-- `direktori service center indonesia <https://www.autobild.co.id>`_ 
+In 2017, Telkomsel launched `the Veronika virtual assistant <https://wiki.karinov.co.id/tanya-veronika-asisten-virtual/>`_, an AI-based chatbot to become the first automatic customer care in Indonesia. Every Telkomsel customer can use this Veronika feature 24x7 with various chat platforms such as WhatsApp, Facebook Messenger, LINE, and MyTelkomsel Apps. Among the main features that can be done via Telkomsel Veronika are credit top-up transactions, send credit, register internet packages, change cards, entertainment services, check internet quota, check remaining credit, and most other Telkomsel products. Here are the terms and conditions every Ask Veronika virtual assistant user must meet:
 
-Mengenal E-A-T Algoritma SEO Mutakhir dari Google
-==================
-Dalam `SEO <https://karinov.co.id/jasa-seo/>`_, dikenal ada EAT yang merupakan singkatan dari Expertise, Authoritativeness, dan Trsutworthiness. Pada dasarnya EAT inilah yangmenunjukkan kepada Google bahwa website Anda merupakan sumber yang terpercaya yang dikelola oleh orang-orang yang sudah ahli.
+`SEO <https://karinov.co.id/jasa-seo/>`_
 
-Ask Veronika
+Veronika Virtual Assistant Terms and Conditions
 ==================
 The following is the contents of the PDF document which contains the terms and conditions for the virtual assistant service "Ask Veronika" from Telkomsel according to the conditions listed in the link www.telkomsel.com/asisten-virtual-telkomsel.
 
@@ -108,3 +102,9 @@ The suspension or termination of service cannot be used as an excuse by the Cust
 The terms and conditions contained in this Website are fully subject to and interpreted based on the laws applicable in the territory of the Republic of Indonesia.
 
 For questions about other Telkomsel products and services, please contact Facebook: @Facebook, Twitter: @Telkomsel, email: cs@telkomsel.co.id, web MyTelkomsel https://my.telkomsel.com/
+
+Citations and References
+==================
+- `Virtual Assistant  <https://www.telkomsel.com/asisten-virtual-telkomsel>`_
+- `About Telkomsel Veronika <https://www.telkomsel.com/about-us/blogs/cara-mengakses-veronika-layanan-asisten-virtual-telkomsel>`_
+- `Syarat dan Ketentuan Layanan Virtual Assistant <http://wiki.karinov.co.id/va_veronika/>`_ 
