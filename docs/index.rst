@@ -35,75 +35,76 @@ Mengenal E-A-T Algoritma SEO Mutakhir dari Google
 ==================
 Dalam `SEO <https://karinov.co.id/jasa-seo/>`_, dikenal ada EAT yang merupakan singkatan dari Expertise, Authoritativeness, dan Trsutworthiness. Pada dasarnya EAT inilah yangmenunjukkan kepada Google bahwa website Anda merupakan sumber yang terpercaya yang dikelola oleh orang-orang yang sudah ahli.
 
-Dengan optimasi EAT yang baik, website Anda bisa tidak ikut-ikutan terjun bebas rangkingnya dari halaman awal Google. Pada umumnya, website yang rangkingnya tetap menaruh unsur EAT pada web mereka selain memasukkan setiap kata kunci.
-
-Misalnya, mereka menyertakan sertifikasi yang pernah didapat ataupun orang-orang dibalik konten tersebut.
-
-Jadi, apa yang harus Anda lakukan?
-
-Untuk optimasi EAT, Anda bisa membuat halaman tentang kami, jadi ada informasi mengenai siapa saja yang bertanggung jawab dibalik konten yang ada di website. Anda juga bisa turut menyertakan sertifikasi dari lembaga-lembaga atau gelar.
-
-Kemudian jangan lupa sertakan pula kontak bagi website Anda mencakup nama, nomor telepon, email, hingga alamat jika Anda mau. Selain itu, pada niche yang sama, buatlah konten sebanyak-banyaknya dengan materi yang lengkap. Karena sebenarnya, semakin banyak konten itu semakin baik.
-
-Anda juga perlu terus berusaha agar mendapat `backlink <https://karinov.co.id/pbn/>`_ atau review dari website lain yang membahas niche yang sama. Dengan begitu, Anda bisa mendapatkan otoritas.
-
-Mengenal Pakar SEO Ibrahim Vatih
+Ask Veronika
 ==================
-Nama Ibrahim Vatih mungkin terasa tidak asing lagi terdengar. Namanya sudah aral melintang di jagad dunia internet, khususnya di Indonesia. Di usianya yang cukup muda, ia sudah bisa mendirikan pesantren bernama Sintesa dan juga sangat mahir dalam bidang SEO.
+The following is the contents of the PDF document which contains the terms and conditions for the virtual assistant service "Ask Veronika" from Telkomsel according to the conditions listed in the link www.telkomsel.com/asisten-virtual-telkomsel.
 
-Kecakapannya dalam SEO ini berhubungan dengan minat dan ketertarikannya yang sudah dimiliki sejak lama. Ibrahim Vatih mengaku bahwa ia menyukai bidang pemrograman hingga online marketing. Kesukaannya ini pun merambah ke hal lainnya dengan memperdalam website, ads, dan lingkup sejenisnya. Semua hal tersebut pun mengerucut dengan pendalaman SEO.
+Telkomsel Virtual Assistant Service is a service managed by PT. Telekomunikasi Selular (“Telkomsel”), which is intended for Customers who will submit requests, complaints, and information about Telkomsel services through the Virtual Assistant application.
 
-Dengan menyukai `hal berbau SEO <https://karinov.co.id/cara-seo-youtube/>`_ membuatnya menjadi lebih mudah memahaminya. Penerapan SEO yang digunakannya bisa Anda lihat di dalam websitenya yaitu vatih.com. Disana Anda akan menemukan berbagai macam artikel yang ditulis untuk dibaca oleh jutaan pengguna daring.
+The Telkomsel Virtual Assistant service can be used by all Telkomsel customers who use various types of Telkomsel products, except corporate customers and child numbers.
+To access the Telkomsel Virtual Assistant service, Customers can access the official virtual assistant account on the LINE, Telegram, and Facebook Messenger platforms as follows:
 
-Jika mengunjungi beranda websitenya dan mengklik salah satu artikel, maka selanjutnya Anda akan digiring pada halaman vatih.com/bisnis/. Revorma, begitulah nama untuk lanjutan dari halaman utama tadi.
+- LINE: @telkomsel
+- Telegram: @telkomsel_official_bot
+- Facebook: Telkomsel
 
-Bagian Revorma ini merupakan sebuah kolom yang dikhususkan untuk mempelajari bisnis online serta SEO sejak tahun 2010.
+By using the Telkomsel Virtual Assistant Service, Customers are able to get the following information:
 
-Artikel yang ditulis, khususnya tentang SEO, cukup mudah dicerna. Bahasanya lugas dan sederhana serta bisa dipahami oleh berbagai usia yang ingin belajar SEO.
+- Top FAQ of Telkomsel products
+- Customer profiles information
+- Product and purchase information
+- Latest promotion for Telkomsel products
 
-Ada segudang artikel yang Anda butuhkan untuk bahan belajar. Artikel di kategori ini digolongkan lagi dalam menu wordpress, SEO, `marketing <https://karinov.co.id/digital-marketing-optimal-di-2019/>`_, dan adsense. Anda juga bisa langsung mencarinya sesuai dengan kata kunci yang diinginkan pada kolom pencarian.
+In using the Telkomsel Virtual Assistant service, Customers are not allowed to:
+- Using abusive, pornographic, vulgar, and unethical language when communicating using the Telkomsel Virtual Assistant Service;
+- Defaming, threatening, insulting, or harassing other people or organizations;
+- Spamming the Telkomsel Virtual Assistant Service;
+- Making issue statements that trigger conflict against ethnicity, religion, and race;
+- Committing a security breach of the Telkomsel Virtual Assistant service;
+- Sending pictures, videos, audios, links, and/or documents without the permission of the holders of the intellectual property rights concerned;
+- Sending pictures, videos, audios, links, and/or documents included in the pornography category;
+- Accessing Telkomsel Virtual Assistant Service illegally;
+- Providing false information impacts on the losses of other parties;
+- Doing other things that are contrary to the prevailing laws of values in the territory of the Republic of Indonesia.
 
-Bagi yang ingin mendapatkan bahan berkonten premium, tim akan membuatkan akun secara khusus. Akun ini nantinya akan digunakan pada saat ingin login untuk membaca materi yang sudah terkunci.
-
-Konten atau Revorma premium ini memiliki materi yang berbeda dari biasanya. Modul yang diberikan sangat lengkap dan bertahap pembelajarannya. Materi dimulai dari perkenalan dasar, kata kunci, bentuk juga jenisnya, link, formula untuk memulai bisnis online dan adsense, hingga bagian yang kerap diabaikan atau dianggap sepele dalam strategi SEO.
-
-Selain itu, di website ini juga memberikan layanan jasa PBN dan jasa SEO bagi yang tidak ingin pusing `menulis artikel <https://karinov.co.id/cara-seo-artikel-blog/>`_ sejenis. Anda bisa langsung menghubungi nomor kontak yang tercantum di artikel berisi layanan jasa tersebut.
-
-Mengenal SEO Tools Terbaik: Ahrefs
+Disclaimer
 ==================
+These Terms and Conditions are an inseparable part of the general provisions for products and/or services from Telkomsel Services, which are listed on http://www.telkomsel.com/customer-service/disclaimer/11022-Sentuk-dan-Ketektronik- Usage-Products-Telkomsel.html ("Terms and Conditions for Use of Products and/or Services from Telkomsel Services"). For this reason, Telkomsel urges Customers to also regularly read the "Terms and Conditions for Using Telkomsel Products and/or Services" before accessing Telkomsel Virtual Assistant Services.
 
-Salah satu `tools digital terbaik <https://digital.readthedocs.io/en/latest/>`_ di tahun 2019 adalah Ahrefs. Meskipun biaya yang harus dikeluarkan tidaklah sedikit, namun sangat sebanding dengan beragam fitur yang tersedia di dalamnya. Berikut ini beberapa fitur unggulan dari tools ini, antara lain:
+By using this service, Customers agree to understand and agree to be bound by these Terms and Conditions.
 
-- Site Explorer
-Fitur ini merupakan fitur utama dari tool Ahrefs yaitu sebagai backlink checker. Untuk mengaksesnya anda hanya perlu mengunjungi link https://ahrefs.com/site-explorer, lalu masukkan domain yang ingin anda cek backlinknya. Jika sudah anda bisa menutupnya dengan klik tombol “Search”.
+Customers agree that Telkomsel has full authority to give promotions, advertisements, and/or other offers for Telkomsel products and/or products of other parties that collaborate with Telkomsel as long as deemed necessary.
 
-- Content Explorer
-Fitur selanjutnya yang akan anda peroleh ketika menggunakan tool ini adalah content explorer. Fungsi dari fitur ini adalah untuk mencari konten yang ada pada website kemudian mengurutkan sesuai dengan daya share di sosial media.
+Customers understand and agree for being fully responsible for the confidentiality of personal data such as but not limited to the User ID (MSISDN number) and/or t-Care PIN that has been provided.
 
-Apabila daya share semakin tinggi maka potensi untuk viralnya juga semakin tinggi. Untuk mengaksesnya bisa langsung mengetikkan link https://ahrefs.com/content-explorer dan masukkan keyword yang ingin anda cek.
+Telkomsel is not responsible for all impacts that arise and/or losses suffered by Customers and/or third parties that arise as a direct or indirect result of using the Telkomsel Virtual Assistant service, as long as it occurs outside of Telkomsel's mistakes and/or negligence.
 
-- Fitur Position Explorer
-Fitur ini memiliki keunggulan yaitu mampu memperlihatkan keyword yang masuk ke domain tertentu. Selain itu anda juga bisa mengetahui kisaran jumlah trafik, kompetitor hingga halaman yang paling banyak mendapatkan trafik pada bagian top page.
+Telkomsel has the right to at any time disclose any information you provide through this service if it is necessary in order to comply with applicable laws in the territory of the Republic of Indonesia, and Telkomsel cannot be accused of this, including for all impacts that arise and/or losses experienced.
 
-Anda akan mengetahui keyword yang masuk ke kompetitor lengkap dengan peringkatnya. Anda juga akan melihat konten apa saja yang mampu membawa banyak trafik pada bagian top page.
+Telkomsel is not responsible for any impacts that arise and/or losses suffered due to Customers’ inability or failure to use/access the Website, including but not limited to all information, materials, services, facilities, or other things presented on the Website.
 
-- Position Tracker
-Berfungsi untuk memonitor posisi ranking atau peringkat dari web maupun kompetitor anda. Untuk melakukannya, anda hanya perlu masuk ke https://ahrefs.com/dashboard/add kemudian masukkan URL  dan eword yang ingin dicek sebelumnya.
+Telkomsel is not responsible for any impacts that arise and/or losses suffered due to a violation or unauthorized access to this service, including but not limited to things on the Website that are performed by other parties in contradictory ways with the laws in force in the territory of the Republic of Indonesia.
 
-- Crawl Reports
-Performa dan `struktur SEO <https://www.navi.id/belajar-seo-wordpress-complete-guide/>`_ pada website anda bisa dilihat menggunakan fitur ini. Apabila anda menemukan masalah juga bisa segera terlihat sehingga anda bisa segera memperbaikinya. Hal ini tentu saja penting dilakukan karena akan berpengaruh pada kualitas dari website anda.
+Telkomsel is not responsible for any impacts that arise and/or losses suffered due to Force Majeure, including but not limited to God's will, natural disasters, communication failures, system errors, government inaction, war, labor strikes, riots -harm, vandalism, terrorism, or others.
 
-- Domain Comparison Tool
-Selain fitur-fitur yang sudah disebutkan di atas, anda juga akan menjumpai fitur yang bernama domain comparison tool. Anda bisa membandingkan kondisi backlink dari 5 domain dalam waktu yang bersamaan. Dengan begitu maka anda bisa mengetahui persaingan di niche anda secara sederhana dan cepat.
+Customers understand and agree that, although Telkomsel has taken the necessary steps to ensure the security of this service, Telkomsel cannot guarantee that the use of this service is fully protected from viruses, security threats, or other vulnerabilities.
 
-- `Digital Marketing Organization <https://www.dmo.or.id/>`_
+Customers understand and agree that any link to another party's website contained in this service is not intended to show that Telkomsel agrees and is responsible for the content, material, and content of the other party's website, in other words, Telkomsel is not responsible for the content and/or other material on the other party's website.
 
-- Daftar Referensi Resmi Terbaru
-- `peta indonesia <https://genetika.sith.itb.ac.id/peta-indonesia/>`_
-- `peta indonesia hd <https://kobi-id.org/peta-indonesia/>`_
-- `kata-kata bijak motivasi indonesia <https://kobi-id.org/kata-bijak-motivasi/>`_
-- `kata-kata motivasi bisnis <https://genetika.sith.itb.ac.id/kata-bijak-motivasi/>`_
-- `kata kata bijak <https://blogs.itb.ac.id/wikia/kata-kata-motivasi/>`_
-- `ebilling djp online <https://genetika.sith.itb.ac.id/ebilling-djp-online/>`_
-- `KOBI DJP Online <https://kobi-id.org/ebilling-djp-online/>`_
-- `SSE Pajak Terbaru 2020 <https://blogs.itb.ac.id/wikia/sse-pajak-terbaru/>`_
+Telkomsel will always make adjustments to the business conditions that may have an impact on changes to these Terms and Conditions without prior notification to Customers. Telkomsel is not responsible to Customers and/or to third parties for any impacts that arise and/or losses suffered due to changes to these Terms and Conditions.
+
+Telkomsel encourages Customers to periodically check these Terms and Conditions.
+
+Customers understand and agree that any violations that occur in using the Telkomsel Virtual Assistant Service may result in personal and/or civil liability, in accordance with the applicable legal provisions in the territory of the Republic of Indonesia.
+
+Termination and blocking of Veronika Services
+==================
+If Customers provide false, inaccurate, incomplete, inaccurate information, Telkomsel has the right to suspend or terminate access to or usage of the Service.
+
+Any violation of these Terms and Conditions may result in suspension or termination of access to services provided by Telkomsel.
+
+The suspension or termination of service cannot be used as an excuse by the Customers for not making payments for the services he has used, the Customer will be fully responsible for all fees charged for all the services usage.
+
+The terms and conditions contained in this Website are fully subject to and interpreted based on the laws applicable in the territory of the Republic of Indonesia.
+
+For questions about other Telkomsel products and services, please contact Facebook: @Facebook, Twitter: @Telkomsel, email: cs@telkomsel.co.id, web MyTelkomsel https://my.telkomsel.com/
