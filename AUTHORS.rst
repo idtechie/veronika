@@ -2,10 +2,10 @@ Authors
 -------
 
 * Eric (New contributor)
-* Anthony 
+* Anthony
+* Karinov
 
-- https://karinov.co.id - jasa digital marketing indonesia
-- https://www.navi.id - forum modifikasi otomotif indonesia
-- https://blogs.itb.ac.id/feeds - kumpulan tautan berita terbaru indonesia
-- https://www.fedora.or.id - portal speaker dan audio
-- https://www.autobild.co.id - harian pelita portal informasi terkini
+- https://www.telkomsel.com/ - Telkomsel Indonesia
+- https://wiki.karinov.co.id - Veronika Asisten Virtual
+- https://www.fedora.or.id - Portal Audio dan Tutorial
+- https://www.autobild.co.id - Info Otomotif dan Teknologi
